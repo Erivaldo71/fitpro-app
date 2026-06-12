@@ -1,3 +1,4 @@
-# Cloudflare Pages redirects
-# For SPA behavior if we add routing later
-/*    /index.html   200
+# Cloudflare Pages - SPA redirect (para Single Page Application)
+# Redireciona tudo para index.html, exceto arquivos reais
+
+/* /index.html 200
