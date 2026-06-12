@@ -1,4 +1,1 @@
-# Cloudflare Pages - SPA redirect (para Single Page Application)
-# Redireciona tudo para index.html, exceto arquivos reais
-
 /* /index.html 200
